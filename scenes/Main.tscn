@@ -1,0 +1,18 @@
+[gd_scene load_steps=2 format=3 uid="uid://d1k7gohtwbfrn"]
+
+[ext_resource type="Script" uid="uid://dthwo4g3eneqg" path="res://scenes/Main.gd" id="1_elqb8"]
+
+[node name="Main" type="VBoxContainer"]
+script = ExtResource("1_elqb8")
+
+[node name="Scavenge" type="Button" parent="."]
+layout_mode = 2
+text = "Scavenge"
+
+[node name="Hand" type="HBoxContainer" parent="."]
+custom_minimum_size = Vector2(0, 141)
+layout_mode = 2
+size_flags_vertical = 3
+alignment = 1
+
+[connection signal="pressed" from="Scavenge" to="." method="_onScavenge"]
