@@ -7,5 +7,5 @@ func _onScavenge():
 	card.card_name = "Zalej olejem"
 	card.card_type = "Akcja"
 	card.card_desc = "+2KM"
-	card.card_fraction = load("res://images/rags/icon.png")
+	card.card_fraction = load("res://images/de_classic/icon.png")
 	$Hand.add_child(card)

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://1cvydvs4euwf"
-path="res://.godot/imported/oil_bottle.png-315f8fca1ec2750b9d513daca5cc52d5.ctex"
+uid="uid://bqhoyvbcy71jf"
+path="res://.godot/imported/ico.png-f3e6ca38a0345aa278b5b42ed1c0fd81.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://images/rags/oil_bottle.png"
-dest_files=["res://.godot/imported/oil_bottle.png-315f8fca1ec2750b9d513daca5cc52d5.ctex"]
+source_file="res://images/jp_master/ico.png"
+dest_files=["res://.godot/imported/ico.png-f3e6ca38a0345aa278b5b42ed1c0fd81.ctex"]
 
 [params]
 
